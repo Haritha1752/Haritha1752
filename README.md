@@ -44,7 +44,7 @@ I have a deep interest in data analytics and am always exploring new tools and t
 
 ### 📈 Let's Connect!
 I'm always open to connecting with like-minded professionals and exploring new opportunities. Feel free to reach out:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/harithaanand)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/harithaanand/)
 
 ---
 
